@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_0_0">0.0</string>
+    <string name="anime_title">Anime Title</string>
+    <string name="category">Category</string>
+    <string name="studio">Studio</string>
+</resources>
